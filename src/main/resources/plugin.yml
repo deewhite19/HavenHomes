@@ -1,0 +1,6 @@
+name: HavenHomes
+version: '${version}'
+
+main: me.david.havenHomes.HavenHomes
+api-version: '26.1.2'
+load: POSTWORLD
